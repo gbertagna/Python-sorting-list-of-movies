@@ -1,2 +1,2 @@
 # Python-sorting-list-of-movies
-Script that sorts a csv file of movies (movie title, year made, budget, type, etc.)
+This script first joins two separate csv files (Movies.csv and Films.csv) into one and sorts the movies by year and if they had a budget.
